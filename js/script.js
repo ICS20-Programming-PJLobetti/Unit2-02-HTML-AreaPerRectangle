@@ -15,10 +15,10 @@ function doMathClicked () {
 }
 function calculateArea () {
   // this function calculates area
-  document.getElementById('multiply-math').innerHTML = 'The area is ' + (5 * 3) + ' cm²'
+  document.getElementById('multiply-math2').innerHTML = 'The area is ' + (5 * 3) + ' cm²'
 }
 
 function calculatePerimeter () {
   // this function calculates perimeter
-  document.getElementById('add-math').innerHTML = 'The perimeter is ' + (5 * 2 + 3 * 2) + ' cm'
+  document.getElementById('add-math2').innerHTML = 'The perimeter is ' + (5 * 2 + 3 * 2) + ' cm'
 }
